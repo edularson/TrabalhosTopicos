@@ -1,0 +1,962 @@
+{
+  "query_bird_004.jpg": [
+    {
+      "rank": 1,
+      "documento": "doc_person_018.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        78,
+        23,
+        168,
+        159
+      ],
+      "sim_visual": 0.7268,
+      "iou": 0.7544,
+      "pontuacao": 0.7351
+    },
+    {
+      "rank": 2,
+      "documento": "doc_car_011.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        59,
+        54,
+        199,
+        227
+      ],
+      "sim_visual": 0.8019,
+      "iou": 0.3178,
+      "pontuacao": 0.6567
+    },
+    {
+      "rank": 3,
+      "documento": "doc_cat_002.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        30,
+        57,
+        179,
+        183
+      ],
+      "sim_visual": 0.7226,
+      "iou": 0.388,
+      "pontuacao": 0.6222
+    },
+    {
+      "rank": 4,
+      "documento": "doc_person_015.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.7555,
+      "iou": 0.3076,
+      "pontuacao": 0.6211
+    },
+    {
+      "rank": 5,
+      "documento": "doc_person_016.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.7555,
+      "iou": 0.3076,
+      "pontuacao": 0.6211
+    },
+    {
+      "rank": 6,
+      "documento": "doc_person_017.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.7555,
+      "iou": 0.3076,
+      "pontuacao": 0.6211
+    },
+    {
+      "rank": 7,
+      "documento": "doc_dog_007.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        42,
+        58,
+        214,
+        207
+      ],
+      "sim_visual": 0.7596,
+      "iou": 0.2867,
+      "pontuacao": 0.6177
+    },
+    {
+      "rank": 8,
+      "documento": "doc_dog+person_005.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        15,
+        21,
+        149,
+        206
+      ],
+      "sim_visual": 0.7308,
+      "iou": 0.3361,
+      "pontuacao": 0.6124
+    },
+    {
+      "rank": 9,
+      "documento": "doc_bird_023.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "sim_visual": 0.7948,
+      "iou": 0.145,
+      "pontuacao": 0.5999
+    },
+    {
+      "rank": 10,
+      "documento": "doc_car_013.jpg",
+      "regiao_query": [
+        80,
+        36,
+        156,
+        161
+      ],
+      "regiao_doc": [
+        26,
+        76,
+        192,
+        182
+      ],
+      "sim_visual": 0.722,
+      "iou": 0.313,
+      "pontuacao": 0.5993
+    }
+  ],
+  "query_car_002.jpg": [
+    {
+      "rank": 1,
+      "documento": "doc_dog_006.jpg",
+      "regiao_query": [
+        0,
+        27,
+        256,
+        200
+      ],
+      "regiao_doc": [
+        0,
+        20,
+        256,
+        196
+      ],
+      "sim_visual": 0.8838,
+      "iou": 0.9389,
+      "pontuacao": 0.9003
+    },
+    {
+      "rank": 2,
+      "documento": "doc_dog_009.jpg",
+      "regiao_query": [
+        0,
+        27,
+        256,
+        200
+      ],
+      "regiao_doc": [
+        0,
+        25,
+        256,
+        256
+      ],
+      "sim_visual": 0.8422,
+      "iou": 0.7489,
+      "pontuacao": 0.8142
+    },
+    {
+      "rank": 3,
+      "documento": "doc_car_014.jpg",
+      "regiao_query": [
+        0,
+        27,
+        256,
+        200
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        255,
+        256
+      ],
+      "sim_visual": 0.8677,
+      "iou": 0.674,
+      "pontuacao": 0.8096
+    },
+    {
+      "rank": 4,
+      "documento": "doc_bird_024.jpg",
+      "regiao_query": [
+        0,
+        85,
+        238,
+        256
+      ],
+      "regiao_doc": [
+        0,
+        12,
+        234,
+        256
+      ],
+      "sim_visual": 0.8512,
+      "iou": 0.6925,
+      "pontuacao": 0.8036
+    },
+    {
+      "rank": 5,
+      "documento": "doc_person_019.jpg",
+      "regiao_query": [
+        0,
+        85,
+        238,
+        256
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        206,
+        256
+      ],
+      "sim_visual": 0.8887,
+      "iou": 0.6052,
+      "pontuacao": 0.8036
+    },
+    {
+      "rank": 6,
+      "documento": "doc_dog_008.jpg",
+      "regiao_query": [
+        0,
+        85,
+        238,
+        256
+      ],
+      "regiao_doc": [
+        0,
+        59,
+        223,
+        256
+      ],
+      "sim_visual": 0.7955,
+      "iou": 0.8201,
+      "pontuacao": 0.8029
+    },
+    {
+      "rank": 7,
+      "documento": "doc_bird+person_021.jpg",
+      "regiao_query": [
+        0,
+        85,
+        238,
+        256
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        226,
+        256
+      ],
+      "sim_visual": 0.8584,
+      "iou": 0.6451,
+      "pontuacao": 0.7944
+    },
+    {
+      "rank": 8,
+      "documento": "doc_bird_022.jpg",
+      "regiao_query": [
+        0,
+        27,
+        256,
+        200
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        252,
+        256
+      ],
+      "sim_visual": 0.8365,
+      "iou": 0.6686,
+      "pontuacao": 0.7862
+    },
+    {
+      "rank": 9,
+      "documento": "doc_dog+person_005.jpg",
+      "regiao_query": [
+        0,
+        27,
+        256,
+        200
+      ],
+      "regiao_doc": [
+        15,
+        21,
+        149,
+        206
+      ],
+      "sim_visual": 0.9013,
+      "iou": 0.5051,
+      "pontuacao": 0.7824
+    },
+    {
+      "rank": 10,
+      "documento": "doc_car_010.jpg",
+      "regiao_query": [
+        0,
+        27,
+        256,
+        200
+      ],
+      "regiao_doc": [
+        52,
+        18,
+        256,
+        256
+      ],
+      "sim_visual": 0.8449,
+      "iou": 0.6133,
+      "pontuacao": 0.7754
+    }
+  ],
+  "query_cat_000.jpg": [
+    {
+      "rank": 1,
+      "documento": "doc_person_019.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        206,
+        256
+      ],
+      "sim_visual": 0.8545,
+      "iou": 0.5552,
+      "pontuacao": 0.7647
+    },
+    {
+      "rank": 2,
+      "documento": "doc_dog_006.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        0,
+        20,
+        256,
+        196
+      ],
+      "sim_visual": 0.7974,
+      "iou": 0.6499,
+      "pontuacao": 0.7532
+    },
+    {
+      "rank": 3,
+      "documento": "doc_dog+person_005.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        15,
+        21,
+        149,
+        206
+      ],
+      "sim_visual": 0.7937,
+      "iou": 0.6571,
+      "pontuacao": 0.7527
+    },
+    {
+      "rank": 4,
+      "documento": "doc_cat_000.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        0,
+        57,
+        156,
+        196
+      ],
+      "sim_visual": 0.7691,
+      "iou": 0.7043,
+      "pontuacao": 0.7496
+    },
+    {
+      "rank": 5,
+      "documento": "doc_cat_001.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        0,
+        57,
+        156,
+        196
+      ],
+      "sim_visual": 0.7691,
+      "iou": 0.7043,
+      "pontuacao": 0.7496
+    },
+    {
+      "rank": 6,
+      "documento": "doc_dog_007.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        42,
+        58,
+        214,
+        207
+      ],
+      "sim_visual": 0.839,
+      "iou": 0.5246,
+      "pontuacao": 0.7447
+    },
+    {
+      "rank": 7,
+      "documento": "doc_dog_009.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        0,
+        25,
+        256,
+        256
+      ],
+      "sim_visual": 0.8394,
+      "iou": 0.4951,
+      "pontuacao": 0.7361
+    },
+    {
+      "rank": 8,
+      "documento": "doc_car_014.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        255,
+        256
+      ],
+      "sim_visual": 0.856,
+      "iou": 0.4485,
+      "pontuacao": 0.7338
+    },
+    {
+      "rank": 9,
+      "documento": "doc_cat_002.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        30,
+        57,
+        179,
+        183
+      ],
+      "sim_visual": 0.7645,
+      "iou": 0.6412,
+      "pontuacao": 0.7275
+    },
+    {
+      "rank": 10,
+      "documento": "doc_bird+person_021.jpg",
+      "regiao_query": [
+        0,
+        32,
+        183,
+        192
+      ],
+      "regiao_doc": [
+        19,
+        34,
+        218,
+        256
+      ],
+      "sim_visual": 0.8022,
+      "iou": 0.545,
+      "pontuacao": 0.725
+    }
+  ],
+  "query_dog_001.jpg": [
+    {
+      "rank": 1,
+      "documento": "doc_car_011.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        59,
+        54,
+        199,
+        227
+      ],
+      "sim_visual": 0.8484,
+      "iou": 0.7184,
+      "pontuacao": 0.8094
+    },
+    {
+      "rank": 2,
+      "documento": "doc_dog_007.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        42,
+        58,
+        214,
+        207
+      ],
+      "sim_visual": 0.8604,
+      "iou": 0.6463,
+      "pontuacao": 0.7962
+    },
+    {
+      "rank": 3,
+      "documento": "doc_car_013.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        26,
+        76,
+        192,
+        182
+      ],
+      "sim_visual": 0.8289,
+      "iou": 0.5938,
+      "pontuacao": 0.7584
+    },
+    {
+      "rank": 4,
+      "documento": "doc_person_015.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.8679,
+      "iou": 0.4753,
+      "pontuacao": 0.7501
+    },
+    {
+      "rank": 5,
+      "documento": "doc_person_016.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.8679,
+      "iou": 0.4753,
+      "pontuacao": 0.7501
+    },
+    {
+      "rank": 6,
+      "documento": "doc_person_017.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.8679,
+      "iou": 0.4753,
+      "pontuacao": 0.7501
+    },
+    {
+      "rank": 7,
+      "documento": "doc_bird+person_021.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        19,
+        34,
+        218,
+        256
+      ],
+      "sim_visual": 0.8775,
+      "iou": 0.3938,
+      "pontuacao": 0.7324
+    },
+    {
+      "rank": 8,
+      "documento": "doc_cat_002.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        30,
+        57,
+        179,
+        183
+      ],
+      "sim_visual": 0.8301,
+      "iou": 0.4958,
+      "pontuacao": 0.7298
+    },
+    {
+      "rank": 9,
+      "documento": "doc_person_019.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        206,
+        256
+      ],
+      "sim_visual": 0.8845,
+      "iou": 0.3299,
+      "pontuacao": 0.7182
+    },
+    {
+      "rank": 10,
+      "documento": "doc_dog_008.jpg",
+      "regiao_query": [
+        69,
+        74,
+        196,
+        211
+      ],
+      "regiao_doc": [
+        0,
+        59,
+        223,
+        256
+      ],
+      "sim_visual": 0.8434,
+      "iou": 0.3961,
+      "pontuacao": 0.7092
+    }
+  ],
+  "query_person_003.jpg": [
+    {
+      "rank": 1,
+      "documento": "doc_dog+person_005.jpg",
+      "regiao_query": [
+        6,
+        89,
+        96,
+        219
+      ],
+      "regiao_doc": [
+        0,
+        72,
+        128,
+        234
+      ],
+      "sim_visual": 0.8953,
+      "iou": 0.5642,
+      "pontuacao": 0.796
+    },
+    {
+      "rank": 2,
+      "documento": "doc_bird_020.jpg",
+      "regiao_query": [
+        131,
+        74,
+        250,
+        217
+      ],
+      "regiao_doc": [
+        142,
+        99,
+        256,
+        207
+      ],
+      "sim_visual": 0.824,
+      "iou": 0.6603,
+      "pontuacao": 0.7749
+    },
+    {
+      "rank": 3,
+      "documento": "doc_person_019.jpg",
+      "regiao_query": [
+        6,
+        89,
+        96,
+        219
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        109,
+        208
+      ],
+      "sim_visual": 0.8688,
+      "iou": 0.4526,
+      "pontuacao": 0.744
+    },
+    {
+      "rank": 4,
+      "documento": "doc_person_015.jpg",
+      "regiao_query": [
+        6,
+        89,
+        96,
+        219
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.9192,
+      "iou": 0.2781,
+      "pontuacao": 0.7268
+    },
+    {
+      "rank": 5,
+      "documento": "doc_person_016.jpg",
+      "regiao_query": [
+        6,
+        89,
+        96,
+        219
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.9192,
+      "iou": 0.2781,
+      "pontuacao": 0.7268
+    },
+    {
+      "rank": 6,
+      "documento": "doc_person_017.jpg",
+      "regiao_query": [
+        6,
+        89,
+        96,
+        219
+      ],
+      "regiao_doc": [
+        56,
+        76,
+        137,
+        213
+      ],
+      "sim_visual": 0.9192,
+      "iou": 0.2781,
+      "pontuacao": 0.7268
+    },
+    {
+      "rank": 7,
+      "documento": "doc_cat_000.jpg",
+      "regiao_query": [
+        131,
+        74,
+        250,
+        217
+      ],
+      "regiao_doc": [
+        98,
+        40,
+        256,
+        194
+      ],
+      "sim_visual": 0.8017,
+      "iou": 0.5275,
+      "pontuacao": 0.7194
+    },
+    {
+      "rank": 8,
+      "documento": "doc_cat_001.jpg",
+      "regiao_query": [
+        131,
+        74,
+        250,
+        217
+      ],
+      "regiao_doc": [
+        98,
+        40,
+        256,
+        194
+      ],
+      "sim_visual": 0.8017,
+      "iou": 0.5275,
+      "pontuacao": 0.7194
+    },
+    {
+      "rank": 9,
+      "documento": "doc_car_010.jpg",
+      "regiao_query": [
+        131,
+        74,
+        250,
+        217
+      ],
+      "regiao_doc": [
+        52,
+        18,
+        256,
+        256
+      ],
+      "sim_visual": 0.8732,
+      "iou": 0.3505,
+      "pontuacao": 0.7164
+    },
+    {
+      "rank": 10,
+      "documento": "doc_car_014.jpg",
+      "regiao_query": [
+        131,
+        74,
+        250,
+        217
+      ],
+      "regiao_doc": [
+        0,
+        0,
+        255,
+        256
+      ],
+      "sim_visual": 0.9077,
+      "iou": 0.2607,
+      "pontuacao": 0.7136
+    }
+  ]
+}
